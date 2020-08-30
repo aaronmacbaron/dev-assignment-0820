@@ -1,0 +1,18 @@
+.link{
+    cursor:pointer;
+}
+.link:hover{
+    color:#222;
+}
+.app-container{
+    border:1px solid;
+    width:550px;
+    padding:10px;
+    margin:20px;
+}
+.app-container select{
+    height:30px;
+}
+.app-container ul {
+    list-style:none;
+}
